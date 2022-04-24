@@ -7,12 +7,10 @@ date:       2022-04-21 19:44:33 -0500
 Probablemente todos hemos tenido la experiencia de leer un libro o escuchar una
 conferencia para darnos cuenta, algún tiempo después, que no recordamos
 prácticamente nada del contenido.
-
 Es posible que estemos convencidos de que aquél libro era muy bueno, o que la
 conferencia era absolutamente transformadora, y que imaginemos que podríamos
 utilizar lo que vimos en distintas circunstancias, pero, por más que queramos,
 no logremos decir ni siquiera las ideas básicas o fundamentales.
-
 Peor aún, nos damos cuenta de que es así sólo hasta que sale el tema en una
 plática o imaginamos que sería sumamente útil recordar esa información en una
 situación específica.
@@ -30,11 +28,9 @@ situación específica.
 
 Claro que recordamos, sin necesidad de técnicas o sistemas especiales, mucho de
 la información que hemos aprendido.
-
 Sin embargo, me parece que lo más común es tener un sentimiento de
 insatisfacción con nuestra capacidad para recordar. De ahí que sea tan
 frecuente escuchar a la gente decir que tiene _mala memoria_.
-
 Por memoria, entiendo la **capacidad de acceso a nuestras representaciones mentales**,
 sean estas sobre el pasado (memoria episódica o «recuerdos»), sobre
 significados (memoria semántica o conocimientos) o sobre la forma de realizar
@@ -239,5 +235,7 @@ de un sistema de consolidación del aprendizaje.
 #### Notas
 
 [^1]: Cfr. Dweck, Carol S., _Mindset. La actitud del éxito_, Editorial Sirio, 2016 (fecha de publicación original, 2006) y [su plática TED](https://www.youtube.com/watch?v=_X0mgOOSpLU).
+
 [^2]: Para los interesados, recomiendo mucho el libro _Memory Craft_ (Allen & Unwin, Autstralia, 2019), de la maravillosa Lynne Kelly, que incluye discusiones accesibles sobre la historia del arte de la memoria, desde las culturas “móviles” o semi-nómadas hasta las actuales competencias de memorización. También recomiendo [su plática TEDx](https://www.youtube.com/watch?v=k9kpJtHI8jQ).
+
 [^3]: Cfr. Kember, David, "The intention to both memorize and understand: Another approach to learning?", _Higher Education_, 31, 1996, p. 341-354.
