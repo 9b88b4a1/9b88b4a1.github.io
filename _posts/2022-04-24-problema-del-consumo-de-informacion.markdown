@@ -8,7 +8,7 @@ date:       Sun Apr 24 18:34:06
 
 <img src="https://drscdn.500px.org/photo/147037693/q%3D80_m%3D2000_k%3D1/v2?sig=2dc4f8c8244cf2365ab3ec082add58466780932ce0ec19a963f5e0e84e757bb4" width="600">
 
-###### Crédito: ![Eungyeol Kim](https://500px.com/photo/147037693/Young-monks--reading-by-Eungyeol-Kim/ "Eungyeol Kim")
+###### Crédito: [Eungyeol Kim](https://500px.com/photo/147037693/Young-monks--reading-by-Eungyeol-Kim/ "Eungyeol Kim")
 
 
 El consumo de información en la actualidad, si nos interesa como una herramienta para comprender mejor la realidad y actuar sobre ella de una mejor manera, nos presenta importantes desafíos y oportunidades que no deben ser tomados a la ligera. Tal vez algunas personas no lo noten, especialmente de manera consciente, pero es especialmente importante para quienes me gusta llamar "entusiastas del aprendizaje" o "aprendices eternos". Me refiero a quienes valoran el aprendizaje como algo que va más allá de la educación formal, que puede y debe acompañarnos en la totalidad de la vida, y para quienes el consumo de información debe realizarse y valorarse (al menos en cierta medida) con ese objetivo en mente. Si, por el contrario, estás satisfecho con el consumo de información como mero entretenimiento, tal vez este artículo no sea para ti.
@@ -23,7 +23,7 @@ En este artículo, quisiera aportar una interpretación de la forma en que se re
 
 <img src="https://cdnb.artstation.com/p/assets/images/images/004/640/903/large/mos-444-bloom-girl.jpg?1485218163" width="600">
 
-###### Crédito: ![attackmenicely](http://https://www.artstation.com/artwork/gB4x8)
+###### Crédito: [attackmenicely](http://https://www.artstation.com/artwork/gB4x8)
 
 
 Por consumo de información estoy entendiendo toda actividad dedicada a absorber o procesar cualquier fuente de información o material de trabajo y que ocurre cuando leemos o atendemos a noticias, artículos, videos en internet, podcasts, libros, etc. Ciertamente, incluye las obras de ficción, sean novelas, programas de televisión o películas, etc., pero es más común que el consumo de éstas tenga un fin meramente recreativo y no de aprendizaje. 
@@ -77,7 +77,7 @@ Estas limitaciones, debidas básicamente a lo poco informado que es el consumo i
 
 <img src="https://drscdn.500px.org/photo/74810895/q%3D80_m%3D2000/v2?sig=5850d49870f30522b98551a48d9553178c001882f6b6df360fd44e0bd22cbad3" width="600">
 
-###### Crédito: ![Alexis Kriticos](https://500px.com/photo/74810895/pages-by-alexis-kriticos)
+###### Crédito: [Alexis Kriticos](https://500px.com/photo/74810895/pages-by-alexis-kriticos)
 
 
 La alternativa realmente efectiva al consumo ingenuo es lo que llamo *consumo deliberado de información*. Sin duda, hay varias formas de consumir información de manera deliberada. Al igual que en el consumo intencional, el objetivo explícito es el aprendizaje, particularmente la comprensión y el desarrollo del pensamiento propio, así como mantener el acceso al mismo de la manera más efectiva posible. Lo que lo distingue es que se basa en estrategias ya probadas y más o menos generalizables, por más que tengan que ser adaptadas a las necesidades y objetivos de cada persona y siempre puedan ser desarrolladas o modificadas con base en la práctica personal.
