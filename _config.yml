@@ -6,9 +6,11 @@ description: Memorización Deliberada, Escritura Fluída, Capoeira, y más.
 
 baseurl: ""
 url: ""
-theme: minima
+
+remote_theme: jekyll/minima
+minima:
+  skin: dark
+
 plugins:
   - jekyll-feed
 
-minima:
-  skin: dark
