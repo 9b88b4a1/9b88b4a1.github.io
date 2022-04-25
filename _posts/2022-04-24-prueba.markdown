@@ -19,7 +19,7 @@ Por consumo de información estoy entendiendo toda actividad dedicada a absorber
 
 Para poder pensarlo y distinguir sus variadas formas, quiero proponer tres categorías que son análogas a las que desarrolló Anders Ericsson para pensar los distintos tipos de práctica, a saber: la *práctica ingenua*, limitada al aprendizaje de lo básico y su repetición mecánica, sumamente inefectiva; la *práctica intencional*, caracterizada por tener objetivos bien definidos, ser concentrada, tener retroalimentación y ser desafiante; y la *práctica deliberada*, el "patrón de referencia" o estándar dorado, un tipo de práctica intencional e informada (por la tradición, los expertos de cada campo y las ciencias del aprendizaje y del desempeño), altamente efectiva. [^1] Del mismo modo, podemos pensar en un consumo de información caracterizado por ser "ingenuo" o inefectivo, pero también intencional o deliberado.
 
-### Consumo ingenuo de información 
+### Consumo ingenuo de información 🥴
 
 El consumo ingenuo o inefectivo de información es el más común en la actualidad y supongo que todos o la gran mayoría de nosotros tenemos experiencia directa con su realización, especialmente cuando consumimos contenido de manera casual o en tiempos de "ocio". Sus características más importantes son que se realiza sin un objetivo claro, de manera superficial y consumista, por lo que tiende a resultar insatisfactorio a largo plazo, especialmente para quienes valoran el aprendizaje. Es ingenuo porque confía, a pesar de la experiencia y las evidencias en contra, en que basta con su realización continuada para desarrollar una comprensión adecuada de la realidad. Veamos estas características más a fondo.
 
