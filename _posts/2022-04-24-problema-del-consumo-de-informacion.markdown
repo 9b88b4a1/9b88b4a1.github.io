@@ -8,8 +8,7 @@ date:       Sun Apr 24 18:34:06
 
 <img src="https://drscdn.500px.org/photo/147037693/q%3D80_m%3D2000_k%3D1/v2?sig=2dc4f8c8244cf2365ab3ec082add58466780932ce0ec19a963f5e0e84e757bb4" width="600">
 
-###### Crédito: ![Eungyeol Kim](https://500px.com/photo/147037693/Young-monks--reading-by-Eungyeol-Kim/)
-
+###### Crédito: ![Eungyeol Kim](https://500px.com/photo/147037693/Young-monks--reading-by-Eungyeol-Kim/ "Eungyeol Kim")
 
 
 El consumo de información en la actualidad, si nos interesa como una herramienta para comprender mejor la realidad y actuar sobre ella de una mejor manera, nos presenta importantes desafíos y oportunidades que no deben ser tomados a la ligera. Tal vez algunas personas no lo noten, especialmente de manera consciente, pero es especialmente importante para quienes me gusta llamar "entusiastas del aprendizaje" o "aprendices eternos". Me refiero a quienes valoran el aprendizaje como algo que va más allá de la educación formal, que puede y debe acompañarnos en la totalidad de la vida, y para quienes el consumo de información debe realizarse y valorarse (al menos en cierta medida) con ese objetivo en mente. Si, por el contrario, estás satisfecho con el consumo de información como mero entretenimiento, tal vez este artículo no sea para ti.
