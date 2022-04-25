@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      Una prueba
+title:      El problema del consumo de información en la actualidad
 date:       Sun Apr 24 18:34:06
 ---
 
-El problema del consumo de información en la actualidad
-=======================================================
+![imagen](https://user-images.githubusercontent.com/104329290/165002572-0e1666c2-ed38-48c8-970d-ec8461e7471a.png)
+
 
 El consumo de información en la actualidad, si nos interesa como una herramienta para comprender mejor la realidad y actuar sobre ella de una mejor manera, nos presenta importantes desafíos y oportunidades que no deben ser tomados a la ligera. Tal vez algunas personas no lo noten, especialmente de manera consciente, pero es especialmente importante para quienes me gusta llamar "entusiastas del aprendizaje" o "aprendices eternos". Me refiero a quienes valoran el aprendizaje como algo que va más allá de la educación formal, que puede y debe acompañarnos en la totalidad de la vida, y para quienes el consumo de información debe realizarse y valorarse (al menos en cierta medida) con ese objetivo en mente. Si, por el contrario, estás satisfecho con el consumo de información como mero entretenimiento, tal vez este artículo no sea para ti.
 
