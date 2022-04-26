@@ -89,4 +89,6 @@ Contenido y costo del Curso
 
 
 -   Costo del curso: $1500 MXN. Si tienes problemas para pagar la totalidad del costo, contáctame y busquemos una solución.
+
+
 -   Inicio de la Tercera Edición del CEF: 12 de mayo, 2022
