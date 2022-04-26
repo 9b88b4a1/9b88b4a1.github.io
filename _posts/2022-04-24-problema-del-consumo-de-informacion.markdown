@@ -21,6 +21,7 @@ En este artículo, quisiera aportar una interpretación de la forma en que se re
 
 ## Consumo de información
 
+
 <img src="https://cdnb.artstation.com/p/assets/images/images/004/640/903/large/mos-444-bloom-girl.jpg?1485218163" width="600">
 
 ###### Crédito: [attackmenicely](http://https://www.artstation.com/artwork/gB4x8)
@@ -34,12 +35,13 @@ Para poder pensarlo y distinguir sus variadas formas, quiero proponer tres categ
 
 ## Consumo ingenuo de información
 
+
 ![imagen](https://user-images.githubusercontent.com/104329290/165014734-496a0cd3-7c50-4bac-a07a-71dc3becb00c.png)
 ###### Crédito: [Jeweller Magazine](http://https://www.jewellermagazine.com/Article/10415/Seven-tips-for-managing-information-overload "Jeweller Magazine")
 
 El consumo ingenuo o inefectivo de información es el más común en la actualidad y supongo que todos o la gran mayoría de nosotros tenemos experiencia directa con su realización, especialmente cuando consumimos contenido de manera casual o en tiempos de "ocio". Sus características más importantes son que se realiza sin un objetivo claro, de manera superficial y consumista, por lo que tiende a resultar insatisfactorio a largo plazo, especialmente para quienes valoran el aprendizaje. Es ingenuo porque confía, a pesar de la experiencia y las evidencias en contra, en que basta con su realización continuada para desarrollar una comprensión adecuada de la realidad. Veamos estas características más a fondo.
 
-### *El consumo ingenuo de información ocurre de manera fortuita o dirigido por los algoritmos de las redes sociales*
+#### *El consumo ingenuo de información ocurre de manera fortuita o dirigido por los algoritmos de las redes sociales*
 
 Generalmente no se elige de manera intencional o deliberada lo que se consume, sino que seguimos nuestros impulsos inmediatos (lo que "nos dan ganas" de consumir en el momento), basados, en buena medida, en lo que tenemos a la mano. Dado que la forma más común de encontrar información nueva (escritos, videos, etc.) es a partir de las redes sociales (como Facebook, Twitter o Instagram), nuestra elección se encuentra reducida a lo que nos muestran sus algoritmos, que son todo menos accidentales. 
 
@@ -64,6 +66,7 @@ Cuando entendemos al aprendizaje como la adquisición y desarrollo de conocimien
 Cuando leemos o atendemos los distintos materiales que consumimos de manera superficial y con poca comprensión, conservamos muy poco y lo que conservamos es marcado por los mecanismos y sesgos naturales o personales de nuestra mente, con lo que la información importante y relevante puede fácilmente perderse. Al consumir cantidades grandes de información sin procesarlas ni elaborar sobre ellas, nuestras representaciones y modelos mentales (los resultados del aprendizaje, ya sean base del conocimiento o de las habilidades) se vuelven sumamente débiles y a menudo poco coherentes. Todo lo anterior nos hace muy vulnerables a influencias, ajenas e incluso opuestas a nuestros intereses auténticos, así como a noticias, datos irrelevantes y opiniones de ocasión, siempre en proceso de ser sustituidos por otros nuevos gracias al constante flujo de nuevos materiales, artículos, videos, etc.
 
 ## Consumo intencional de información
+
 
 Ante este panorama poco alentador se pueden tomar básicamente dos estrategias generales. La primera es lo que podemos llamar consumo intencional de información. Este tipo de consumo tiene dos objetivos definidos, el del aprendizaje y el de mantener algún tipo de acceso a éste, así como a la información que vamos consumiendo. Lo que lo caracteriza es que procura distintas estrategias e intenta determinar, por experiencia, cuáles funcionan y cuales no lo hacen tanto. Por ejemplo, en relación con los artículos de internet, muchas personas guardan los que les parecen interesantes como marcadores en su explorador de internet, o capturan las páginas o partes de ellas con herramientas más especializadas (como el *web clipper* de Evernote u otros programas de notas digitales). Hay quien hace algo similar con videos de YouTube, haciendo listas de reproducción. Las bibliotecas personales, físicas o digitales, tienen una función similar.
 
