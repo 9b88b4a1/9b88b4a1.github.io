@@ -22,6 +22,7 @@ En este artículo, quisiera aportar una interpretación de la forma en que se re
 ## Consumo de información
 
 
+
 <img src="https://cdnb.artstation.com/p/assets/images/images/004/640/903/large/mos-444-bloom-girl.jpg?1485218163" width="600">
 
 ###### Crédito: [attackmenicely](http://https://www.artstation.com/artwork/gB4x8)
@@ -36,6 +37,7 @@ Para poder pensarlo y distinguir sus variadas formas, quiero proponer tres categ
 ## Consumo ingenuo de información
 
 
+
 ![imagen](https://user-images.githubusercontent.com/104329290/165014734-496a0cd3-7c50-4bac-a07a-71dc3becb00c.png)
 ###### Crédito: [Jeweller Magazine](http://https://www.jewellermagazine.com/Article/10415/Seven-tips-for-managing-information-overload "Jeweller Magazine")
 
@@ -47,25 +49,26 @@ Generalmente no se elige de manera intencional o deliberada lo que se consume, s
 
 En realidad, están diseñados con el objetivo de mantener el mayor tiempo posible nuestra atención dentro de dichas redes, promoviendo hábitos de consumo superficial y alineado a los intereses de las empresas y personas que compran sus espacios de anuncios y "contenido patrocinado", que son, como se sabe, los verdaderos clientes de las empresas tecnológicas. Cuando todo o la mayoría del contenido que consumimos es seleccionado de esta manera, perdemos la oportunidad de alinear nuestro consumo con nuestros valores, intereses y necesidades.
 
-### *El consumo ingenuo de información es predominantemente superficial (de bajo nivel de comprensión)*
+#### *El consumo ingenuo de información es predominantemente superficial (de bajo nivel de comprensión)*
 
 Comúnmente, consumimos información de forma sumamente pasiva, es decir, nuestra actividad se reduce en buena medida a la mera exposición al material que consumimos. Leemos artículos o libros, vemos videos, escuchamos podcasts, programas o audiolibros, y nos contentamos con seguir (incluso de manera distraída) el sentido de lo expuesto. Tal vez nos detengamos y releamos partes que nos resultan especialmente difíciles, pero, en general, con tener la sensación de entender lo que estamos atendiendo, avanzamos pensando que hemos hecho suficiente. Esto no es algo malo en sí mismo, especialmente si nuestro interés es el de enterarnos de manera muy general sobre un tema, o cuando consumimos por mero entretenimiento.
 
 Sin embargo, el problema con consumir de esa manera es que no sólo produce una comprensión muy limitada, sino que ésta se encuentra comúnmente asociada con una ilusión de conocimiento denominada "ilusión de fluencia": la confusión de nuestra capacidad para seguir un texto con el hecho de tener un dominio o comprensión real de su contenido. [^2] Este problema se pone de manifiesto cuando intentamos, por ejemplo, contarle a alguien sobre un artículo, libro o video que acabamos de atender y descubrimos, a menudo con sorpresa, que no podemos explicar las ideas ni argumentos ahí presentados. Naturalmente, puede tratarse de un fallo en nuestra capacidad de recordar la información, pero, dado que puede ocurrirnos aun inmediatamente después de haber leído o atendido el material, en muchos casos es claro que se trata de un problema con la comprensión real que tenemos de él.
 
-### *El consumo ingenuo de información es generalmente consumista y no elaborativo*
+#### *El consumo ingenuo de información es generalmente consumista y no elaborativo*
 
 Esta forma de consumo pasivo (de "mera exposición") además es, generalmente, consumista. Es decir, se realiza como si el objetivo principal fuera el consumir grandes cantidades de información, dejando en muy segundo plano tanto su calidad como los efectos que tienen en nosotros. Lo anterior ocurre en parte porque no se tiene un objetivo claro, por lo que el objetivo implícito tiende a ser determinado por nuestros deseos más inmediatos, como el de entretenimiento, el de estar "enterado" (en parte, resultado del fenómeno conocido como FOMO, *fear of missing out*), o el de disfrutar con el menor esfuerzo posible, aunque a largo plazo resulte insatisfactorio. El resultado es, comúnmente, un sobreconsumo de información análogo al sobreconsumo de alimentos, que impide su adecuada digestión, a menudo impulsado por una habituación a la dopamina que produce el buscar y descubrir siempre nuevo contenido, o incluso utilizado como técnica de escape.
 
 Ese consumo excesivo, frente al que ya Schopenhauer prevenía en relación con la lectura exagerada (que, según él, producía personas "incultas de tanto leer"[^3]), no satisface nuestra necesidad de comprensión, sino que funciona como un pseudo-satisfactor, similar al consumo de comida chatarra. Rara vez revisitamos información que hemos consumido, reflexionamos o elaboramos sobre ella, en parte porque consumir nueva información es mucho más disfrutable y porque nos produce la sensación (equivocada) de estar haciendo algo más productivo. En realidad, para que la información resulte verdaderamente nutritiva, necesitamos procesarla, relacionarla con otra información, contrastarla, examinarla críticamente e integrarla en nuestros modelos mentales, que a su vez deben ser examinados y desarrollados. Este desarrollo e integración del nuevo conocimiento es lo que se conoce con el nombre de "elaboración"[^4] y, en general, está ausente del consumo común de información, al menos de manera intencional.
 
-### *El consumo ingenuo de información tiene efectos negativos o contraproducentes para el aprendizaje profundo*
+#### *El consumo ingenuo de información tiene efectos negativos o contraproducentes para el aprendizaje profundo*
 
 Cuando entendemos al aprendizaje como la adquisición y desarrollo de conocimientos y habilidades, así como la capacidad de acceder a ellos para enfrentar problemas futuros, es claro que la forma habitual en que se consume información no solo resulta sumamente inefectiva, sino francamente contraproducente. Al elegir lo que consumimos de manera no intencional, siguiendo principalmente los algoritmos de las redes sociales, nuestra autonomía y capacidad de autodeterminación se ven claramente reducidas. 
 
 Cuando leemos o atendemos los distintos materiales que consumimos de manera superficial y con poca comprensión, conservamos muy poco y lo que conservamos es marcado por los mecanismos y sesgos naturales o personales de nuestra mente, con lo que la información importante y relevante puede fácilmente perderse. Al consumir cantidades grandes de información sin procesarlas ni elaborar sobre ellas, nuestras representaciones y modelos mentales (los resultados del aprendizaje, ya sean base del conocimiento o de las habilidades) se vuelven sumamente débiles y a menudo poco coherentes. Todo lo anterior nos hace muy vulnerables a influencias, ajenas e incluso opuestas a nuestros intereses auténticos, así como a noticias, datos irrelevantes y opiniones de ocasión, siempre en proceso de ser sustituidos por otros nuevos gracias al constante flujo de nuevos materiales, artículos, videos, etc.
 
 ## Consumo intencional de información
+
 
 
 Ante este panorama poco alentador se pueden tomar básicamente dos estrategias generales. La primera es lo que podemos llamar consumo intencional de información. Este tipo de consumo tiene dos objetivos definidos, el del aprendizaje y el de mantener algún tipo de acceso a éste, así como a la información que vamos consumiendo. Lo que lo caracteriza es que procura distintas estrategias e intenta determinar, por experiencia, cuáles funcionan y cuales no lo hacen tanto. Por ejemplo, en relación con los artículos de internet, muchas personas guardan los que les parecen interesantes como marcadores en su explorador de internet, o capturan las páginas o partes de ellas con herramientas más especializadas (como el *web clipper* de Evernote u otros programas de notas digitales). Hay quien hace algo similar con videos de YouTube, haciendo listas de reproducción. Las bibliotecas personales, físicas o digitales, tienen una función similar.
