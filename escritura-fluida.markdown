@@ -30,6 +30,9 @@ Objetivo y promesa del Curso
 Mapa curricular
 ---------------
 
+![SEF Esquema General v 1 2](https://user-images.githubusercontent.com/104329290/165641149-9a865c8c-2d4c-40a1-939d-0dca6771d611.png)
+
+
 **Sesión 1. Introducción al SEF y selección del material de trabajo**
 
 - El problema del consumo de información y la producción de conocimiento en la actualidad
@@ -77,8 +80,6 @@ Mapa curricular
 
 - Posibles dificultades, obstáculos y soluciones
 - Discusión y reflexión final
-
-![SEF Esquema General v 1 2](https://user-images.githubusercontent.com/104329290/165641149-9a865c8c-2d4c-40a1-939d-0dca6771d611.png)
 
 
 Contenido y costo del Curso
