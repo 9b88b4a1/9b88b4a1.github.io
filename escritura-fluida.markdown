@@ -7,6 +7,9 @@ El Curso de Escritura Fluida es un curso grupal virtual en el que se enseñan, e
 
 Se trata de un curso intensivo (con opción de realizarlo a su propio ritmo), en el que los participantes aprenden y entrenan cada una de las tareas del proceso, con atención personalizada y en una comunidad de escritores que se brindan apoyo y motivación unos a otros.
 
+![Gráfica general Remnote 25 de abril 2022 v 2](https://user-images.githubusercontent.com/104329290/165642146-6c4d068c-1767-41ec-9140-98d8a0d5fdc9.jpg)
+
+
 Objetivo y promesa del Curso
 ----------------------------
 
@@ -74,6 +77,9 @@ Mapa curricular
 
 - Posibles dificultades, obstáculos y soluciones
 - Discusión y reflexión final
+
+![SEF Esquema General v 1 2](https://user-images.githubusercontent.com/104329290/165641149-9a865c8c-2d4c-40a1-939d-0dca6771d611.png)
+
 
 Contenido y costo del Curso
 ---------------------------
