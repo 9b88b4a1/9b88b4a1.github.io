@@ -9,6 +9,7 @@ Se trata de un curso intensivo (con opción de realizarlo a su propio ritmo), en
 
 ![Gráfica general Remnote 25 de abril 2022 v 2](https://user-images.githubusercontent.com/104329290/165642146-6c4d068c-1767-41ec-9140-98d8a0d5fdc9.jpg)
 
+_[Gráfica de mis notas interconectadas en RemNote]_
 
 Objetivo y promesa del Curso
 ----------------------------
