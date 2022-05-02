@@ -101,6 +101,8 @@ Contenido y costo del Curso
 
 -   Inicio de la Tercera Edición del CEF: 12 de mayo, 2022
 
-Grupo de difusión en WA: https://chat.whatsapp.com/DlSiYv01U9s795LignLfSA
 
-Página de Facebook: https://www.facebook.com/dantegaxiolav
+Grupo de difusión en WA: [https://chat.whatsapp.com/DlSiYv01U9s795LignLfSA](https://chat.whatsapp.com/DlSiYv01U9s795LignLfSA "https://chat.whatsapp.com/DlSiYv01U9s795LignLfSA")
+
+
+Página de Facebook: [https://www.facebook.com/dantegaxiolav](https://www.facebook.com/dantegaxiolav "https://www.facebook.com/dantegaxiolav")
