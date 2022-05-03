@@ -3,6 +3,10 @@ layout: page
 title: Curso de Escritura Fluida
 permalink: /escritura-fluida/
 ---
+
+[![Invitación en YT](https://user-images.githubusercontent.com/104329290/166574696-4f0e7e63-afc6-4b0c-95e7-17861708eeb9.png)](https://www.youtube.com/watch?v=alcRDZ_Qev0)
+
+
 El Curso de Escritura Fluida es un curso grupal virtual en el que se enseñan, en forma de un taller práctico de 7 sesiones semanales, las herramientas y técnicas que forman parte del Sistema de Escritura Fluida (SEF), con el que se utiliza la escritura como medio de desarrollo del aprendizaje y el pensamiento propio.
 
 Se trata de un curso intensivo (con opción de realizarlo a su propio ritmo), en el que los participantes aprenden y entrenan cada una de las tareas del proceso, con atención personalizada y en una comunidad de escritores que se brindan apoyo y motivación unos a otros.
