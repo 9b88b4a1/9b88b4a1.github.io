@@ -110,3 +110,11 @@ Grupo de difusión en WA: [https://chat.whatsapp.com/DlSiYv01U9s795LignLfSA](htt
 
 
 Página de Facebook: [https://www.facebook.com/dantegaxiolav](https://www.facebook.com/dantegaxiolav "https://www.facebook.com/dantegaxiolav")
+
+
+#### Contacto para inscripciones:
+
+Whatsapp: +52 5534026497
+
+Correo: dantemacabeo@gmail.com
+
